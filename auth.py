@@ -1,2 +1,2 @@
-def login(): 
-    print("login function") 
+def authenticate_user():
+    print("login function")
